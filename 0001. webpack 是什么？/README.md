@@ -1,5 +1,6 @@
 # [0001. webpack 是什么？](https://github.com/Tdahuyou/webpack/tree/main/0001.%20webpack%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 
+
 ## 🤖 webpack 是什么？【通义千问 2.5】
 
 Webpack 是一个模块打包工具，主要用于现代 JavaScript 应用程序的静态模块打包。它将应用程序中的所有资源，如 JavaScript、CSS、图片等视为模块，并通过依赖图（dependency graph）来管理和打包这些模块。最终，Webpack 会将这些模块打包成一个或多个 bundle，可以在浏览器中加载运行。
