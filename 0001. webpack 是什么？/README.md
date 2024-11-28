@@ -1,7 +1,11 @@
 # [0001. webpack 是什么？](https://github.com/Tdahuyou/webpack/tree/main/0001.%20webpack%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 
+<!-- region:toc -->
+- [1. 🤖 webpack 是什么？【通义千问 2.5】](#1--webpack-是什么通义千问-25)
+- [2. 🤖 webpack 是什么？【通义千问 2.5 深度搜索】](#2--webpack-是什么通义千问-25-深度搜索)
+<!-- endregion:toc -->
 
-## 🤖 webpack 是什么？【通义千问 2.5】
+## 1. 🤖 webpack 是什么？【通义千问 2.5】
 
 Webpack 是一个模块打包工具，主要用于现代 JavaScript 应用程序的静态模块打包。它将应用程序中的所有资源，如 JavaScript、CSS、图片等视为模块，并通过依赖图（dependency graph）来管理和打包这些模块。最终，Webpack 会将这些模块打包成一个或多个 bundle，可以在浏览器中加载运行。
 
@@ -17,7 +21,7 @@ Webpack 是一个模块打包工具，主要用于现代 JavaScript 应用程序
 
 Webpack 非常灵活，可以通过配置来满足不同的项目需求。随着前端应用变得越来越复杂，Webpack 成为了许多开发者的选择，尤其是在 React、Vue 和 Angular 等框架的应用中非常流行。不过，由于其配置可能相对复杂，对于初学者来说可能会有一定的学习曲线。近年来，社区也出现了一些简化 Webpack 配置或提供零配置方案的工具，比如 Create React App 或者 Vue CLI。
 
-## 🤖 webpack 是什么？【通义千问 2.5 深度搜索】
+## 2. 🤖 webpack 是什么？【通义千问 2.5 深度搜索】
 
 Webpack 是一个前端资源加载/打包工具，它的主要功能是处理现代 JavaScript 应用程序中的模块化代码。当 Webpack 处理应用程序时，它会根据入口点（entry point）构建一个依赖图（dependency graph），这个图中包含了项目所需的所有模块。随后，Webpack 会将这些模块打包成一个或多个 bundle 文件，以便在浏览器中使用。
 
