@@ -4,5 +4,11 @@
         "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=webpack",
         "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=webpack",
         "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=webpack"
+    },
+    "tnotesConfig": {
+      "ignoreDirs": [
+        ".vscode",
+        ".git"
+      ]
     }
 }
