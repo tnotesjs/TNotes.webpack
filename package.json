@@ -1,14 +1,14 @@
 {
-    "scripts": {
-        "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=webpack",
-        "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=webpack",
-        "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=webpack",
-        "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=webpack"
-    },
-    "tnotesConfig": {
-      "ignoreDirs": [
-        ".vscode",
-        ".git"
-      ]
-    }
+  "scripts": {
+    "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=webpack",
+    "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=webpack",
+    "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=webpack",
+    "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=webpack"
+  },
+  "tnotesConfig": {
+    "ignoreDirs": [
+      ".vscode",
+      ".git"
+    ]
+  }
 }
