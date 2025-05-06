@@ -1,6 +1,7 @@
-# [0002. webpack 中的 loader 是什么？](https://github.com/Tdahuyou/webpack/tree/main/0002.%20webpack%20%E4%B8%AD%E7%9A%84%20loader%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+# [0002. webpack 中的 loader 是什么？](https://github.com/Tdahuyou/TNotes.webpack/tree/main/notes/0002.%20webpack%20%E4%B8%AD%E7%9A%84%20loader%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 
 <!-- region:toc -->
+
 - [1. 🤖 请介绍一下 webpack 中的 loader【通义千问 2.5】](#1--请介绍一下-webpack-中的-loader通义千问-25)
   - [1.1. 常见的 Loader 类型](#11-常见的-loader-类型)
   - [1.2. 如何添加 Loader](#12-如何添加-loader)
@@ -8,6 +9,7 @@
   - [2.1. Loader 的基本概念](#21-loader-的基本概念)
   - [2.2. 如何配置 Loader](#22-如何配置-loader)
   - [2.3. 常见的 Loader](#23-常见的-loader)
+
 <!-- endregion:toc -->
 
 ## 1. 🤖 请介绍一下 webpack 中的 loader【通义千问 2.5】

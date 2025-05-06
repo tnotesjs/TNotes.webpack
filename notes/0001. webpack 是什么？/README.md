@@ -1,8 +1,10 @@
-# [0001. webpack 是什么？](https://github.com/Tdahuyou/webpack/tree/main/0001.%20webpack%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+# [0001. webpack 是什么？](https://github.com/Tdahuyou/TNotes.webpack/tree/main/notes/0001.%20webpack%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 
 <!-- region:toc -->
+
 - [1. 🤖 webpack 是什么？【通义千问 2.5】](#1--webpack-是什么通义千问-25)
 - [2. 🤖 webpack 是什么？【通义千问 2.5 深度搜索】](#2--webpack-是什么通义千问-25-深度搜索)
+
 <!-- endregion:toc -->
 
 ## 1. 🤖 webpack 是什么？【通义千问 2.5】
