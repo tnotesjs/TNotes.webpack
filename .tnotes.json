@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.webpack",
-  "keywords": ["TNotes.webpack"],
+  "keywords": [
+    "TNotes.webpack"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
