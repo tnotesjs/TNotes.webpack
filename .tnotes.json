@@ -18,9 +18,9 @@
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--webpack.svg"
     },
-    "title": "Webpack 笔记",
+    "title": "webpack",
     "completed_notes_count": 0,
-    "details": "待搬运语雀上的笔记。",
+    "details": "Webpack 笔记",
     "link": "https://tdahuyou.github.io/TNotes.webpack/"
   },
   "port": 9220,
