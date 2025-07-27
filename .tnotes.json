@@ -13,15 +13,18 @@
     "demos",
     "assets"
   ],
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--webpack.svg"
     },
     "title": "webpack",
     "completed_notes_count": 0,
     "details": "Webpack 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.webpack/"
+    "link": "https://tdahuyou.github.io/TNotes.webpack/",
+    "created_at": 1727133907000,
+    "updated_at": 1753580677000,
+    "days_since_birth": 9220
   },
   "port": 9220,
   "menuItems": [
