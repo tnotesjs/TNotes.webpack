@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.webpack",
   "keywords": ["TNotes.webpack"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "webpack",
     "completed_notes_count": 0,
     "details": "Webpack 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.webpack/",
+    "link": "https://tnotesjs.github.io/TNotes.webpack/",
     "created_at": 1727133907000,
     "updated_at": 1757163554524,
     "days_since_birth": 9220
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
