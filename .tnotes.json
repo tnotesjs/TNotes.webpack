@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.webpack",
-  "keywords": ["TNotes.webpack"],
+  "keywords": [
+    "TNotes.webpack"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -21,7 +23,7 @@
     "details": "Webpack 笔记",
     "link": "https://tnotesjs.github.io/TNotes.webpack/",
     "created_at": 1727133907000,
-    "updated_at": 1757163554524,
+    "updated_at": 1757172138242,
     "days_since_birth": 9220
   },
   "port": 9220,

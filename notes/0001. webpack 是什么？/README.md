@@ -1,4 +1,4 @@
-# [0001. webpack 是什么？](https://github.com/Tdahuyou/TNotes.webpack/tree/main/notes/0001.%20webpack%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+# [0001. webpack 是什么？](https://github.com/tnotesjs/TNotes.webpack/tree/main/notes/0001.%20webpack%20%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
 
 <!-- region:toc -->
 
