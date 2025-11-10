@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-  - [1. 初步认识 webpack](#1-初步认识-webpack)
+- [1. 初步认识 webpack](#1-初步认识-webpack)
 
 <!-- endregion:toc -->
 
