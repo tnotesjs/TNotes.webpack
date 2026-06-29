@@ -2,17 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 🤖 请介绍一下 webpack 中的 loader【通义千问 2.5】](#1--请介绍一下-webpack-中的-loader通义千问-25)
+- [1. 请介绍一下 webpack 中的 loader【通义千问 2.5】](#1-请介绍一下-webpack-中的-loader通义千问-25)
   - [1.1. 常见的 Loader 类型](#11-常见的-loader-类型)
   - [1.2. 如何添加 Loader](#12-如何添加-loader)
-- [2. 🤖 请介绍一下 webpack 中的 loader【通义千问 2.5 深度搜索】](#2--请介绍一下-webpack-中的-loader通义千问-25-深度搜索)
+- [2. 请介绍一下 webpack 中的 loader【通义千问 2.5 深度搜索】](#2-请介绍一下-webpack-中的-loader通义千问-25-深度搜索)
   - [2.1. Loader 的基本概念](#21-loader-的基本概念)
   - [2.2. 如何配置 Loader](#22-如何配置-loader)
   - [2.3. 常见的 Loader](#23-常见的-loader)
 
 <!-- endregion:toc -->
 
-## 1. 🤖 请介绍一下 webpack 中的 loader【通义千问 2.5】
+## 1. 请介绍一下 webpack 中的 loader【通义千问 2.5】
 
 在 Webpack 中，Loader 是一种用于转换文件的工具。它们允许你处理各种不同类型的文件，并将这些文件转换为模块，从而可以在你的项目中使用。例如，你可以用 Loader 将 TypeScript 代码编译成 JavaScript，或者将 SCSS 文件编译成 CSS。
 
@@ -32,10 +32,10 @@
            use: {
              loader: 'babel-loader',
              options: {
-               presets: ['@babel/preset-env']
-             }
-           }
-         }
+               presets: ['@babel/preset-env'],
+             },
+           },
+         },
        ]
      }
      ```
@@ -48,8 +48,8 @@
        rules: [
          {
            test: /\.css$/,
-           use: ['style-loader', 'css-loader']
-         }
+           use: ['style-loader', 'css-loader'],
+         },
        ]
      }
      ```
@@ -62,8 +62,8 @@
        rules: [
          {
            test: /\.s[ac]ss$/i,
-           use: ['style-loader', 'css-loader', 'sass-loader']
-         }
+           use: ['style-loader', 'css-loader', 'sass-loader'],
+         },
        ]
      }
      ```
@@ -79,10 +79,10 @@
            use: [
              {
                loader: 'file-loader',
-               options: {}
-             }
-           ]
-         }
+               options: {},
+             },
+           ],
+         },
        ]
      }
      ```
@@ -100,10 +100,10 @@
                loader: 'url-loader',
                options: {
                  limit: 8192, // 小于8KB的文件会内联为data URL
-               }
-             }
-           ]
-         }
+               },
+             },
+           ],
+         },
        ]
      }
      ```
@@ -118,7 +118,7 @@
 
 通过这些配置，Webpack 就能够识别并正确地处理各种类型的文件了。
 
-## 2. 🤖 请介绍一下 webpack 中的 loader【通义千问 2.5 深度搜索】
+## 2. 请介绍一下 webpack 中的 loader【通义千问 2.5 深度搜索】
 
 在 Webpack 中，Loader 是一种转换器，它允许你将不同类型的文件转换为模块。Webpack 本身只能理解 JavaScript 和 JSON 模块，但是通过 Loader，你可以让 Webpack 处理其他类型的文件，比如 CSS、图片、字体等，并将它们转换成可以在浏览器中运行的 JavaScript 模块。
 
@@ -150,10 +150,10 @@ module: {
       use: {
         loader: 'babel-loader',
         options: {
-          presets: ['@babel/preset-env']
-        }
-      }
-    }
+          presets: ['@babel/preset-env'],
+        },
+      },
+    },
   ]
 }
 ```
