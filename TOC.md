@@ -1,3 +1,1 @@
-- 初步认识 webpack
-  - [ ] 0001. webpack 是什么？
-  - [ ] 0002. webpack 中的 loader 是什么？
+- [ ] 0001. 认识 webpack
