@@ -12,8 +12,8 @@ importers:
         specifier: ^0.2.1
         version: 0.2.1
       '@tnotesjs/ssg':
-        specifier: ^0.1.1
-        version: 0.1.1(@types/markdown-it@14.2.0)(sass@1.100.0)
+        specifier: ^0.1.8
+        version: 0.1.8(@types/markdown-it@14.2.0)(sass@1.100.0)
 
 packages:
 
@@ -496,13 +496,13 @@ packages:
     resolution: {integrity: sha512-uDMllL2l7zq0d63K8i1cnzdBZfwnkXLw+t48cXIhYg3tvVCpb38YOy0QFAhHTg8xRreV+Jdh3jBaf+wo0FAEFg==}
     engines: {node: '>=18.0.0'}
 
-  '@tnotesjs/ssg@0.1.1':
-    resolution: {integrity: sha512-/vBI/tnLCeufavKt64gqkHX7M9WsibwlxxShmYom6VeYTTJDgSKRm9KR4DxnuwALqkepjILSZAUWxz73UIMgWg==}
+  '@tnotesjs/ssg@0.1.8':
+    resolution: {integrity: sha512-pzA8/M6QKJqU5mAJlv6vtCN+iy5YuWEaPfo0iweKAJHz0s2lnTlDsK2KoHvtLszTb/GDV6qggR25qYHNxOrqgQ==}
     engines: {node: '>=22.0.0'}
     hasBin: true
 
-  '@tnotesjs/ui@0.1.3':
-    resolution: {integrity: sha512-4WXDHYWB7GrZV7hhaLGVOqeDpA7dxyGYxetO5oeEcIvS5i8lBoy/IpyPKn1/Nbi8xYAoEJMBxrZQRyswOv98pw==}
+  '@tnotesjs/ui@0.1.5':
+    resolution: {integrity: sha512-cHNGo7Qxab7XPTB4poBcwAYUmKL7CJs+LwVo6iIKYDB2xrSGtpTUJyx1n0b96/TMIgDTRecrvlmnul+4WAArOQ==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       vue: ^3.5.0
@@ -1921,13 +1921,13 @@ snapshots:
 
   '@tnotesjs/mindmap-core@0.2.2': {}
 
-  '@tnotesjs/ssg@0.1.1(@types/markdown-it@14.2.0)(sass@1.100.0)':
+  '@tnotesjs/ssg@0.1.8(@types/markdown-it@14.2.0)(sass@1.100.0)':
     dependencies:
       '@mdit-vue/plugin-component': 2.1.4
       '@mdit-vue/plugin-frontmatter': 2.1.4
       '@mdit-vue/plugin-sfc': 2.1.4
       '@tnotesjs/kb': 0.2.1
-      '@tnotesjs/ui': 0.1.3(vue@3.5.41)
+      '@tnotesjs/ui': 0.1.5(vue@3.5.41)
       '@vitejs/plugin-vue': 6.0.8(vite@7.3.6(sass-embedded@1.100.0)(sass@1.100.0))(vue@3.5.41)
       '@vue/server-renderer': 3.5.41
       github-slugger: 2.0.0
@@ -1958,7 +1958,7 @@ snapshots:
       - typescript
       - yaml
 
-  '@tnotesjs/ui@0.1.3(vue@3.5.41)':
+  '@tnotesjs/ui@0.1.5(vue@3.5.41)':
     dependencies:
       '@tnotesjs/mindmap-core': 0.2.2
       marked: 15.0.11
