@@ -11,5 +11,6 @@
   "base": "/TNotes.webpack/",
   "stats": {
     "enabled": true
-  }
+  },
+  "id": "08722475-85a1-4789-a617-0f792e8ae990"
 }
